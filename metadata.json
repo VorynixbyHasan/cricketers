@@ -1,0 +1,6 @@
+{
+  "name": "Cricket 3D Figurines",
+  "description": "A full-viewport 3D cricket figurine carousel hero section featuring Virat Kohli, Babar Azam, Joe Root, Kane Williamson, and Steve Smith with authentic jersey themes and smooth rotational transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
